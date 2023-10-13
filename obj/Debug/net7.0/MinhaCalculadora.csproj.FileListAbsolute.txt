@@ -1,0 +1,14 @@
+C:\Users\Eliezer Castro\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.exe
+C:\Users\Eliezer Castro\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.deps.json
+C:\Users\Eliezer Castro\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.runtimeconfig.json
+C:\Users\Eliezer Castro\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.dll
+C:\Users\Eliezer Castro\MinhaCalculadora\bin\Debug\net7.0\MinhaCalculadora.pdb
+C:\Users\Eliezer Castro\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliezer Castro\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.AssemblyInfoInputs.cache
+C:\Users\Eliezer Castro\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.AssemblyInfo.cs
+C:\Users\Eliezer Castro\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer Castro\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.dll
+C:\Users\Eliezer Castro\MinhaCalculadora\obj\Debug\net7.0\refint\MinhaCalculadora.dll
+C:\Users\Eliezer Castro\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.pdb
+C:\Users\Eliezer Castro\MinhaCalculadora\obj\Debug\net7.0\MinhaCalculadora.genruntimeconfig.cache
+C:\Users\Eliezer Castro\MinhaCalculadora\obj\Debug\net7.0\ref\MinhaCalculadora.dll
