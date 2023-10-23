@@ -53,7 +53,7 @@ namespace MyFirstProgram
         Console.WriteLine("Continuar (S/N)?: ");
       } while (Console.ReadLine().ToUpper() == "S");
 
-      Console.WriteLine("Bye");
+      Console.WriteLine("Operação Finalizada!");
       Console.ReadKey();
     }
   }
